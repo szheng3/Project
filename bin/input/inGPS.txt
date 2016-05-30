@@ -1,0 +1,10 @@
+40°42'46.0"N 74°00'21.8"W // New York, NY
+34°03'13.4"N 118°14'33.6"W // Los Angeles, CA
+41°53'01.7"N 87°37'54.3"W // Chicago, IL
+29°45'36.5"N 95°22'09.8"W // Houston, TX
+39°57'08.8"N 75°09'48.6"W // Philadelphia, PA
+33°26'55.4"N 112°04'37.6"W // Phoenix, AZ
+29°25'29.8"N 98°29'39.8"W // San Antonio, TX
+32°43'00.9"N 117°09'46.7"W // San Diego, CA
+32°46'34.6"N 96°47'48.7"W // Dallas, TX
+37°20'17.2"N 121°53'07.5"W // San Jose, CA
